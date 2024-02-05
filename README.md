@@ -1,1 +1,1 @@
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarongao2028&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarongao2028&size_weight=0.5&count_weight=0.5)
