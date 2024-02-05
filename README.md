@@ -1,6 +1,6 @@
 Hi! I'm Aaron. I enjoy coding financial applications in my free time.
 
-Currently, I'm building a customized portfolio generator that can (hopefully) beat the market!
+Currently, I'm building a custom portfolio generator to learn systematic risk analysis.
 
 In real life, I am studying computer science at the University of Waterloo.
 
