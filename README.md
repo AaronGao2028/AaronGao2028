@@ -1,1 +1,1 @@
-[![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarongao2028)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarongao2028&layout=compact) 
+[![Aaron's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=aarongao2028&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarongao2028&layout=compact) 
