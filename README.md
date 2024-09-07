@@ -1,4 +1,4 @@
-Hi! I'm Aaron. I enjoy coding financial applications in my free time.
+Hi! I'm Aaron. I enjoy building financial models in my free time.
 
 Currently, I'm building a [custom portfolio generator](https://github.com/AaronGao2028/stock-master) to learn risk analysis and financial modelling.
 
